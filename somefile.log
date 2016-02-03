@@ -1,0 +1,4 @@
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-01-25T10:27:47.219Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-01-25T10:27:47.220Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-02-01T06:08:27.489Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2016-02-01T06:08:27.490Z"}
