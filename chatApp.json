@@ -22,11 +22,11 @@
     "production" : {
       "user" : "node",
       // Multi host is possible, just by passing IPs/hostname as an array
-      "host" : ["212.83.163.1", "212.83.163.2", "212.83.163.3"],
+      "host" : ["212.83.163.1"],
       // Branch
       "ref"  : "origin/master",
       // Git repository to clone
-      "repo" : "git@github.com:repo.git",
+      "repo" : "git@github.com:vivekbendale/poc.git",
       // Path of the application on target servers
       "path" : "/var/www/production",
       // Commands to execute locally (on the same machine you deploy things)
